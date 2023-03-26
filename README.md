@@ -5,7 +5,7 @@
 
 * *Unity 2D*
 * *casual puzzle game*
-* *Alice in Wonderland concept*
+* *Alice in Wonderland*
 
 __
 ### 구현 담당
@@ -14,7 +14,6 @@ __
 |:--:|:--:|
 |'ItemClick.cs'|아이템 클릭 시 해당 아이템 페이드아웃되며 인벤토리에 들어옴|
 |'GameManager.cs'|스테이지 변경을 위한 게임매니저|
-__
 
 
 플레이 영상 ▶️ - https://drive.google.com/file/d/1p9r6CXdtzTlpjhzExvLhpysQWcFBRZUT/view?usp=share_link 
