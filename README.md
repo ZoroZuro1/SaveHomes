@@ -1,5 +1,5 @@
 # 🧭 구해줘! 홈즈 🏠
-*Ewha MakingJam 인기상 수상 작품*
+*2021 Ewha MakingJam 인기상 수상 작품*
 
 ![KakaoTalk_20230327_054801325](https://user-images.githubusercontent.com/94626295/227803752-8151fde4-4800-4567-b209-00f39160af13.jpg)
 
